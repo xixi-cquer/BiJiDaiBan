@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/ToDoListPage",
+    "pages/NewsEditPage",
+    "pages/SecPage"
+  ]
+}
